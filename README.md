@@ -1,6 +1,8 @@
 # 알바이오 플러스 : 바닥에서 탈출하는  R + 바이오인포
 
+<img src="https://github.com/biospin/R_Bio_Plus/blob/master/main01.png"/>
 <img src="https://github.com/biospin/R_Bio_Plus/blob/master/main02.jpg"/>
+<img src="https://github.com/biospin/R_Bio_Plus/blob/master/main03.jpg"/>
 
 ## 스터디 정보
 바닥에서  R과 바이오인포을 시작하여  R과 바이오인포를 마스터 하는 것을 목표로 하는  실습형  스터디를 한번 더...   
