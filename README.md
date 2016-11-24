@@ -10,6 +10,12 @@
 ## 후원사
 KossLab : http://devlab.oss.kr/
 
+## 다음 스터디 예고
+- 슈퍼바이오 : 슈퍼컴을 활용한 바이오 인포
+    - 오픈형 슈퍼컴 : https://www.opensciencegrid.org/documentation/   
+    - 실습예제 : http://viral-ngs.readthedocs.io/en/latest/index.html
+    - [Introduction To Bioinformatics Algorithms](http://bioinformaticsinstitute.ru/sites/default/files/an_introduction_to_bioinformatics_algorithms_-_jones_pevzner.pdf)   
+
 ## 공유폴더 
 https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 
