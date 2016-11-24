@@ -7,6 +7,8 @@
 ## 스터디 정보
 바닥에서  R과 바이오인포을 시작하여  R과 바이오인포를 마스터 하는 것을 목표로 하는  실습형  스터디를 한번 더...   
 
+## 후원사
+KossLab : http://devlab.oss.kr/
 
 ## 공유폴더 
 https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
