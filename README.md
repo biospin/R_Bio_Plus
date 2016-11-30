@@ -27,7 +27,7 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
      - 2) TensorFlow with R -  https://rstudio.github.io/tensorflow/index.html
 
 - 3. 데이터 분석
-     - 1) 데이터 분석 전문가 가이드 :  http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788988474242
+     - 1) 데이터 분석 전문가 가이드 :  http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788988474839&orderClick=LAG&Kc=
 
 ## 장소
 1. 장소: 토즈 신촌  아트레온토즈점 ( http://www.toz.co.kr/branch/main/index.htm?id=6 )
