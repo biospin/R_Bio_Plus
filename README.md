@@ -40,9 +40,9 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
-|  1 |2016.12. 6|( 통계 기초) 제 1강 통계 추론의 기초 개념 
-|    |          |( R활용)  TensorFlow with R  :  TensorFlow  설치와 R과 연동
-|    |          |(데이터분석)  I-제1장 데이터의 이해  
+|  1 |2016.12. 6|( 통계 기초) 제 1강 통계 추론의 기초 개념 (명충민)
+|    |          |( R활용)  TensorFlow with R  :  TensorFlow  설치와 R과 연동(이승우)
+|    |          |(데이터분석) [ I-제1장 데이터의 이해](https://github.com/biospin/R_Bio_Plus/blob/master/part01/week1_161206/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A0%84%EB%AC%B8%EA%B0%80_1_1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%EC%9D%B4%ED%95%B4.pdf)  (지용기)
 |    |          |(데이터 분석 실습)  
 |  2 |2016.12.13|( 통계 기초) 제 2강 통계학과 확률(1)    
 |    |          |( R활용)  R 유전체분석 : Chapter 9 - Practical Machine Learning
