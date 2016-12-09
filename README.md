@@ -1,6 +1,6 @@
 # 알바이오 플러스 : 바닥에서 탈출하는  R + 바이오인포
 
-<img src="https://github.com/biospin/R_Bio_Plus/blob/master/main04.jgp"/>
+<img src="https://github.com/biospin/R_Bio_Plus/blob/master/main04.jpg"/>
 
 
 ## 스터디 정보
