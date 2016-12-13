@@ -46,7 +46,7 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |    |          |(데이터 분석 실습)  
 |  2 |2016.12.13|( 통계 기초) 제 2강 통계학과 확률(1)    
 |    |          |( R활용)  R 유전체분석 : Chapter 9 - Practical Machine Learning
-|    |          |(데이터분석)  I-제2장 데이터의 가치와 미래 
+|    |          |(데이터분석)  [I-제2장 데이터의 가치와 미래](https://github.com/biospin/R_Bio_Plus/blob/master/part01/week2_161213/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A0%84%EB%AC%B8%EA%B0%80_1_2_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%EA%B0%80%EC%B9%98%EC%99%80%EB%AF%B8%EB%9E%98.pdf) 
 |    |          |(데이터 분석 실습)  
 |  3 |2016.12.20|( 통계 기초) 제 3강 통계학과 확률(2)   
 |    |          |( R활용)  TensorFlow with R  :  MNIST For ML Beginners
