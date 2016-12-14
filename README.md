@@ -50,7 +50,7 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |    |          |(데이터 분석 실습)  
 |  3 |2016.12.20|( 통계 기초) 제 3강 통계학과 확률(2)(현동해)
 |    |          |( R활용)  TensorFlow with R  :  MNIST For ML Beginners(명충민)
-|    |          |(데이터분석)  I-제3장 가치 창조를 위한 데이터 사이언스와 전략 인사이트(지용기)
+|    |          |(데이터분석) [ I-제3장 가치 창조를 위한 데이터 사이언스와 전략 인사이트](https://github.com/biospin/R_Bio_Plus/blob/master/part01/week3_161220/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A0%84%EB%AC%B8%EA%B0%80_1_3_%EA%B0%80%EC%B9%98%EC%B0%BD%EC%A1%B0%EB%A5%BC%EC%9C%84%ED%95%9C%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EC%99%80%EC%A0%84%EB%9E%B5%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8.pdf)(지용기)
 |    |          |(데이터 분석 실습)  
 |  4 |2016.12.27|( 통계 기초) 제 4강 모집단의 분포(1) (장수경)
 |    |          |( R활용)  R 유전체분석 : Chapter 10 - Batch Effects(김가경)
