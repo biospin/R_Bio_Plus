@@ -44,17 +44,17 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |    |          |( R활용)  [TensorFlow with R  :  TensorFlow  설치와 R과 연동](https://github.com/biospin/R_Bio_Plus/blob/master/part01/week1_161206/R%EA%B3%BC-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%97%B0%EB%8F%99%EC%9D%B4%EC%8A%B9%EC%9A%B0.pdf)(이승우)
 |    |          |(데이터분석) [ I-제1장 데이터의 이해](https://github.com/biospin/R_Bio_Plus/blob/master/part01/week1_161206/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A0%84%EB%AC%B8%EA%B0%80_1_1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%EC%9D%B4%ED%95%B4.pdf)  (지용기)
 |    |          |(데이터 분석 실습)  
-|  2 |2016.12.13|( 통계 기초) 제 2강 통계학과 확률(1)    
-|    |          |( R활용)  R 유전체분석 : Chapter 9 - Practical Machine Learning
-|    |          |(데이터분석)  [I-제2장 데이터의 가치와 미래](https://github.com/biospin/R_Bio_Plus/blob/master/part01/week2_161213/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A0%84%EB%AC%B8%EA%B0%80_1_2_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%EA%B0%80%EC%B9%98%EC%99%80%EB%AF%B8%EB%9E%98.pdf) 
+|  2 |2016.12.13|( 통계 기초) 제 2강 통계학과 확률(1)(박세진)
+|    |          |( R활용)  [R 유전체분석 : Chapter 9 - Practical Machine Learning](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html)(김가경)
+|    |          |(데이터분석)  [I-제2장 데이터의 가치와 미래](https://github.com/biospin/R_Bio_Plus/blob/master/part01/week2_161213/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A0%84%EB%AC%B8%EA%B0%80_1_2_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%EA%B0%80%EC%B9%98%EC%99%80%EB%AF%B8%EB%9E%98.pdf) (지용기)
 |    |          |(데이터 분석 실습)  
-|  3 |2016.12.20|( 통계 기초) 제 3강 통계학과 확률(2)   
-|    |          |( R활용)  TensorFlow with R  :  MNIST For ML Beginners
-|    |          |(데이터분석)  I-제3장 가치 창조를 위한 데이터 사이언스와 전략 인사이트
+|  3 |2016.12.20|( 통계 기초) 제 3강 통계학과 확률(2)(현동해)
+|    |          |( R활용)  TensorFlow with R  :  MNIST For ML Beginners(명충민)
+|    |          |(데이터분석)  I-제3장 가치 창조를 위한 데이터 사이언스와 전략 인사이트(지용기)
 |    |          |(데이터 분석 실습)  
-|  4 |2016.12.27|( 통계 기초) 제 4강 모집단의 분포(1) 
-|    |          |( R활용)  R 유전체분석 : Chapter 10 - Batch Effects
-|    |          |(데이터분석)  Ⅱ-제1장 데이터 처리 프로세스 
+|  4 |2016.12.27|( 통계 기초) 제 4강 모집단의 분포(1) (장수경)
+|    |          |( R활용)  R 유전체분석 : Chapter 10 - Batch Effects(김가경)
+|    |          |(데이터분석)  Ⅱ-제1장 데이터 처리 프로세스 (박세진)
 |    |          |(데이터 분석 실습)
 
 
@@ -121,6 +121,5 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |    |          |( R활용)   R 유전체분석 :  525.5xTesting genome-scale hypotheses (Week 4)   뒷부분
 |    |          |(데이터분석)  Ⅴ- 제3장 시각화 구현
 |    |          |(데이터 분석 실습)  
-
 
 
