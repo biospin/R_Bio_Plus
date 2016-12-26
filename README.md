@@ -18,6 +18,7 @@ KossLab : http://devlab.oss.kr/
 ## 공유폴더 
 https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 
+
 ## 교재 정보
 - 1. 통계 기초
      - 1) 통계학의개념및제문제 : http://used.kyobobook.co.kr/product/viewBookDetail.ink?cmdtBrcd=7273954445095
@@ -81,19 +82,19 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 
 |seq.|    날짜        |내용                                                                                                  
 |----| ---------|----------------------------------------------
-|  1 |2017. 1.31|( 통계 기초)  제 9강 점추정량의 비교(1) 
+|  1 |2017. 2. 7|( 통계 기초)  제 9강 점추정량의 비교(1) 
 |    |          |( R활용)  TensorFlow with R  :  TensorFlow API Basic Usage  + Using the TensorFlow API from R
 |    |          |(데이터분석)  Ⅳ - 제2장 통계분석
 |    |          |(데이터 분석 실습)  
-|  2 |2017. 2. 7|( 통계 기초)   제 10강 첨추정량의 비교(2)   
+|  2 |2017. 2.14|( 통계 기초)   제 10강 첨추정량의 비교(2)   
 |    |          |( R활용)   R 유전체분석 : 525.5x:  Focus on genomic ranges (Week 3a)
 |    |          |(데이터분석)  Ⅳ -  제3장 데이터 마트 
 |    |          |(데이터 분석 실습)  
-|  3 |2017. 2.14|( 통계 기초) 제 11강 가설검정(1)    
+|  3 |2017. 2.21|( 통계 기초) 제 11강 가설검정(1)    
 |    |          |( R활용)  TensorFlow with R  :  Variables: Creation, Initialization, Saving, and Loading
 |    |          |(데이터분석) Ⅳ -   제4장 정형 데이터 마이닝 
 |    |          |(데이터 분석 실습)  
-|  4 |2017. 2.21|( 통계 기초) 제 12강 가설검정(2)   
+|  4 |2017. 2.28|( 통계 기초) 제 12강 가설검정(2)   
 |    |          |( R활용)  R 유전체분석 : 525.5x:  Focus on genomic annotation (Week 3b)
 |    |          |(데이터분석)  Ⅳ -  제5장 비정형 데이터 마이닝 
 |    |          |(데이터 분석 실습)  
@@ -102,19 +103,19 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 
 |seq.|    날짜        |내용                                                                                                  
 |----| ---------|----------------------------------------------
-|  1 |2017. 2.28|( 통계 기초) 제 13강 구간추정 
+|  1 |2017. 3. 7|( 통계 기초) 제 13강 구간추정 
 |    |          |( R활용)  TensorFlow with R  :  TensorBoard: Visualizing Learning
 |    |          |(데이터분석)  Ⅳ -  제6장 시뮬레이션 및 최적화
 |    |          |(데이터 분석 실습)  
-|  2 |2017. 3. 7|( 통계 기초)   제 14강 베이지안 추정과 검정(1)    
+|  2 |2017. 3.14|( 통계 기초)   제 14강 베이지안 추정과 검정(1)    
 |    |          |( R활용)  R 유전체분석 :  525.5xTesting genome-scale hypotheses (Week 4)  앞부분
 |    |          |(데이터분석)  Ⅴ-제1장 시각화 인사이트 프로세스 
 |    |          |(데이터 분석 실습)  
-|  3 |2017. 3.14|( 통계 기초) 제 15강 베이지안 추정과 검정(2) 
+|  3 |2017. 3.21|( 통계 기초) 제 15강 베이지안 추정과 검정(2) 
 |    |          |( R활용)  TensorFlow with R  :  TensorBoard: Graph Visualization
 |    |          |(데이터분석) Ⅴ- 제2장 시각화 디자인
 |    |          |(데이터 분석 실습)  
-|  4 |2017. 3.21|( 통계 기초) 
+|  4 |2017. 3.28|( 통계 기초) 
 |    |          |( R활용)   R 유전체분석 :  525.5xTesting genome-scale hypotheses (Week 4)   뒷부분
 |    |          |(데이터분석)  Ⅴ- 제3장 시각화 구현
 |    |          |(데이터 분석 실습)  
