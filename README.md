@@ -52,7 +52,7 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |    |          |(데이터분석) [ I-제3장 가치 창조를 위한 데이터 사이언스와 전략 인사이트](https://github.com/biospin/R_Bio_Plus/blob/master/part01/week3_161220/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A0%84%EB%AC%B8%EA%B0%80_1_3_%EA%B0%80%EC%B9%98%EC%B0%BD%EC%A1%B0%EB%A5%BC%EC%9C%84%ED%95%9C%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EC%99%80%EC%A0%84%EB%9E%B5%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8.pdf)(지용기)
 |  4 |2016.12.27|(통계 기초) [제 4강 모집단의 분포(1)](https://github.com/biospin/R_Bio_Plus/blob/master/part01/week4_161227/%ED%86%B5%EA%B3%84%ED%95%99%EC%9D%98%EA%B0%9C%EB%85%90%EB%B0%8F%EC%A0%9C%EB%AC%B8%EC%A0%9C4%EA%B0%95_%EC%88%98%EC%A0%95.pdf) (장수경)
 |    |          |(R활용) [ R 유전체분석 : Chapter 10 - Batch Effects](http://genomicsclass.github.io/book/pages/intro_to_batch_effects.html)(김가경)
-|    |          |(데이터 분석 실습) Japanese Society of Radiological Technology에서 제공하는 허파 영상 사진 데이터 리뷰 (이승우)
+|    |          |(데이터 분석 실습) [Japanese Society of Radiological Technology에서 제공하는 허파 영상 사진 데이터 리뷰](https://github.com/jaeseung172/Repo/blob/master/BioSpin_Presentation/JSRT%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.ipynb) (이승우)
 
 
 ### Part 2.
