@@ -61,7 +61,7 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |----| ---------|----------------------------------------------
 |  1 |2017. 1. 3|( 통계 기초)  제 5강 모집단의 분포(2)  (현동해) 
 |    |          |( R활용)  TensorFlow with R  :  Deep MNIST for Experts(명충민)
-|    |          |(데이터분석)  Ⅱ-제1장 데이터 처리 프로세스 (지용기)
+|    |          |(데이터분석) [ Ⅱ-제1장 데이터 처리 프로세스](https://github.com/biospin/R_Bio_Plus/blob/master/part02/week1_170103/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A0%84%EB%AC%B8%EA%B0%80_2_1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.pdf) (지용기)
 |    |          |(데이터 분석 실습)  
 |  2 |2017. 1.10|( 통계 기초)   제 6강 표본분포(1)   
 |    |          |( R활용)  R 유전체분석 : 525.5x:  Setup and basics on biological background (Week 1)
