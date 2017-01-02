@@ -59,9 +59,9 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 
 |seq.|    날짜        |내용                                                                                                  
 |----| ---------|----------------------------------------------
-|  1 |2017. 1. 3|( 통계 기초)  제 5강 모집단의 분포(2)   
-|    |          |( R활용)  TensorFlow with R  :  Deep MNIST for Experts
-|    |          |(데이터분석)  Ⅱ-제1장 데이터 처리 프로세스 (박세진)
+|  1 |2017. 1. 3|( 통계 기초)  제 5강 모집단의 분포(2)  (현동해) 
+|    |          |( R활용)  TensorFlow with R  :  Deep MNIST for Experts(명충민)
+|    |          |(데이터분석)  Ⅱ-제1장 데이터 처리 프로세스 (지용기)
 |    |          |(데이터 분석 실습)  
 |  2 |2017. 1.10|( 통계 기초)   제 6강 표본분포(1)   
 |    |          |( R활용)  R 유전체분석 : 525.5x:  Setup and basics on biological background (Week 1)
