@@ -59,7 +59,7 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 
 |seq.|    날짜        |내용                                                                                                  
 |----| ---------|----------------------------------------------
-|  1 |2017. 1. 3|( 통계 기초)  제 5강 모집단의 분포(2)  (현동해) 
+|  1 |2017. 1. 3|(통계 기초) [제 5강 모집단의 분포(2)](https://github.com/biospin/R_Bio_Plus/blob/master/part02/week1_170103/%ED%86%B5%EA%B3%84%ED%95%99%EC%9D%98%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%EC%A0%9C%EB%AC%B8%EC%A0%9C%205%EA%B0%95.pdf)  (현동해) 
 |    |          |( R활용)  TensorFlow with R  :  Deep MNIST for Experts(명충민)
 |    |          |(데이터분석) [ Ⅱ-제1장 데이터 처리 프로세스](https://github.com/biospin/R_Bio_Plus/blob/master/part02/week1_170103/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A0%84%EB%AC%B8%EA%B0%80_2_1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.pdf) (지용기)
 |    |          |(데이터 분석 실습)  
