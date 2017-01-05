@@ -65,7 +65,7 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |    |          |(데이터 분석 실습)  
 |  2 |2017. 1.10|( 통계 기초)   제 6강 표본분포(1)   
 |    |          |( R활용)  R 유전체분석 : 525.5x:  Setup and basics on biological background (Week 1)
-|    |          |(데이터분석) Ⅱ-제2장 빅데이터 처리 기술 
+|    |          |(데이터분석) [Ⅱ-제2장 빅데이터 처리 기술](https://github.com/biospin/R_Bio_Plus/blob/master/part02/week1_170110/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A0%84%EB%AC%B8%EA%B0%80_2_2_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%88%A0.pdf) 
 |    |          |(데이터 분석 실습)  
 |  3 |2017. 1.17|( 통계 기초) 제 7강 표본분포(2) 
 |    |          |( R활용)  TensorFlow with R  :  TensorFlow Mechanics 101
