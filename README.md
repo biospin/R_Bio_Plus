@@ -69,7 +69,7 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |    |          |(데이터 분석 실습)  
 |  3 |2017. 1.17|( 통계 기초) [제 7강 표본분포(2)](https://github.com/biospin/R_Bio_Plus/blob/master/part02/week1_170117/%ED%86%B5%EA%B3%84%ED%95%99%EC%9D%98%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%EC%A0%9C%EB%AC%B8%EC%A0%9C%207%EA%B0%95.pdf)(현동해) 
 |    |          |( R활용)  TensorFlow with R  :  TensorFlow Mechanics 101
-|    |          |(데이터분석)  Ⅲ -제1장 분석과제 정의 
+|    |          |(데이터분석)  [Ⅲ -제1장 분석과제 정의](https://github.com/biospin/R_Bio_Plus/blob/master/part02/week1_170117/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%A0%84%EB%AC%B8%EA%B0%80_3_1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%ED%9A%8D%EC%9D%98%EC%9D%B4%ED%95%B4.pdf)(김가경) 
 |    |          |(데이터 분석 실습)  
 |  4 |2017. 1.24|( 통계 기초)  제 8강 강 점추정     
 |    |          |( R활용)  R 유전체분석 : 525.5x:  Focus on data structure and management (Week 2)
