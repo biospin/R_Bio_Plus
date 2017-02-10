@@ -85,7 +85,8 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |    |          |(데이터분석) Ⅳ - 제2장 통계분석
 |    |          |(데이터 분석 실습)  의료 빅데이터 분석 컨테스트
 |  2 |2017. 2.14|(데이터분석) Ⅳ - 제3장 정형 데이터 마이닝
-|    |          |(데이터분석) Ⅳ - 제4장 비정형 데이터 마이닝 
+|    |          |(데이터분석) Ⅳ - [제4장 비정형 데이터 마이닝 1절 텍트스마이닝](https://github.com/biospin/R_Bio_Plus/blob/master/part03/week1_170207/%EB%B9%84%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D.ipynb) 
+|    |          |(데이터분석) Ⅳ - [제4장 비정형 데이터 마이닝 2절 사회연결망분석](https://github.com/biospin/R_Bio_Plus/blob/master/part03/week1_170207/%EB%B9%84%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D_%EC%82%AC%ED%9A%8C%EC%97%B0%EA%B2%B0%EB%A7%9D%EB%B6%84%EC%84%9D.ipynb)
 |    |          |(데이터 분석 실습)  의료 빅데이터 분석 컨테스트
 |  3 |2017. 2.21|(데이터분석) V -  제1장 시각화 인사이트 프로세스   
 |    |          |(데이터분석) V -  제2장 시각화 디자인 
