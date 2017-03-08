@@ -99,22 +99,16 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 
 |seq.|    날짜        |내용                                                                                                  
 |----| ---------|----------------------------------------------
-|  1 |2017. 3. 7|( 통계 기초) 제 13강 구간추정 
+|  1 |2017. 3. 7|[( 통계 기초)  제 8강 점추정](https://github.com/biospin/R_Bio_Plus/blob/master/part04/week1_170307/%ED%86%B5%EA%B3%84%ED%95%99%EC%9D%98%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%EC%A0%9C%EB%AC%B8%EC%A0%9C%208%EA%B0%95.pdf)(현동해)
+|    |          |( R활용)  TensorFlow with R  :  TensorFlow API Basic Usage  + Using the TensorFlow API from R(명충민)
+|    |          |( R활용)   R 유전체분석 : 525.5x:  Focus on genomic ranges (Week 3b)  (김가경)
+|  2 |2017. 3.14|( 통계 기초)  제 9강 점추정량의 비교(1) (지용기)
+|    |          |( R활용)  TensorFlow with R  :  Variables: Creation, Initialization, Saving, and Loading(김승욱)
+|    |          |( R활용)  R 유전체분석 :  525.5x: Testing genome-scale hypotheses (Week 4)  앞부분(명충민)
+|  3 |2017. 3.21|( 통계 기초)  제 10강 점추정량의 비교(2) 
 |    |          |( R활용)  TensorFlow with R  :  TensorBoard: Visualizing Learning
-|    |          |(데이터분석)  Ⅳ -  제5장 비정형 데이터 마이닝
-|    |          |(데이터 분석 실습)  
-|  2 |2017. 3.14|( 통계 기초)   제 14강 베이지안 추정과 검정(1)    
-|    |          |( R활용)  R 유전체분석 :  525.5xTesting genome-scale hypotheses (Week 4)  앞부분
-|    |          |(데이터분석)  Ⅳ -  제6장 시뮬레이션 및 최적화 
-|    |          |(데이터 분석 실습)  
-|  3 |2017. 3.21|( 통계 기초) 제 15강 베이지안 추정과 검정(2) 
-|    |          |( R활용)  TensorFlow with R  :  TensorBoard: Graph Visualization
-|    |          |(데이터분석)  Ⅴ-제1장 시각화 인사이트 프로세스
-|    |          |(데이터 분석 실습)  
-|  4 |2017. 3.28|( 통계 기초) 
-|    |          |( R활용)   R 유전체분석 :  525.5xTesting genome-scale hypotheses (Week 4)   뒷부분
-|    |          |(데이터분석) Ⅴ- 제2장 시각화 디자인
-|    |          |(데이터분석)  Ⅴ- 제3장 시각화 구현
-|    |          |(데이터 분석 실습)  
+|    |          |( R활용)  R 유전체분석 :  525.5xTesting genome-scale hypotheses (Week 4)  뒷부분(라가영)
+|  4 |2017. 3.28|( 통계 기초) 제 11강 가설검정(1)  
+|    |          |( R활용)  TensorFlow with R  :  TensorBoard: Graph Visualization(박세진)
 
 
