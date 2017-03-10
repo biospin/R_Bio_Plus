@@ -102,7 +102,7 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |  1 |2017. 3. 7|[( 통계 기초)  제 8강 점추정](https://github.com/biospin/R_Bio_Plus/blob/master/part04/week1_170307/%ED%86%B5%EA%B3%84%ED%95%99%EC%9D%98%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%EC%A0%9C%EB%AC%B8%EC%A0%9C%208%EA%B0%95.pdf)(현동해)
 |    |          |( R활용)  TensorFlow with R  :  TensorFlow API Basic Usage  + Using the TensorFlow API from R(명충민)
 |    |          |( R활용)   R 유전체분석 : 525.5x:  Focus on genomic ranges (Week 3b)  (김가경)
-|  2 |2017. 3.14|( 통계 기초)  제 9강 점추정량의 비교(1) (지용기)
+|  2 |2017. 3.14|( 통계 기초)  [제 9강 점추정량의 비교(1)](https://github.com/biospin/R_Bio_Plus/blob/master/part04/week2_170314/%EC%A0%9C%209%EA%B0%95%20%EC%A0%90%EC%B6%94%EC%A0%95%EB%9F%89%EC%9D%98%20%EB%B9%84%EA%B5%90(1).pdf) (지용기)
 |    |          |( R활용)  TensorFlow with R  :  Variables: Creation, Initialization, Saving, and Loading(김승욱)
 |    |          |( R활용)  R 유전체분석 :  525.5x: Testing genome-scale hypotheses (Week 4)  앞부분(명충민)
 |  3 |2017. 3.21|( 통계 기초)  제 10강 점추정량의 비교(2) 
