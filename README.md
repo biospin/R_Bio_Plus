@@ -103,8 +103,7 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |    |          |( R활용)  TensorFlow with R  :  TensorFlow API Basic Usage  + Using the TensorFlow API from R(명충민)
 |    |          |( R활용)   R 유전체분석 : 525.5x:  Focus on genomic ranges (Week 3b)  (김가경)
 |  2 |2017. 3.14|( 통계 기초)  [제 9강 점추정량의 비교(1)](https://github.com/biospin/R_Bio_Plus/blob/master/part04/week2_170314/%EC%A0%9C%209%EA%B0%95%20%EC%A0%90%EC%B6%94%EC%A0%95%EB%9F%89%EC%9D%98%20%EB%B9%84%EA%B5%90(1).pdf) (지용기)
-|    |          |( R활용)  [TensorFlow with R  :  Getting start](https://github.com/biospin/R_Bio_Plus/blob/master/part04/week2_170314/TensorFlow_with_R_%EA%B9%80%EC%8A%B9%EC%9A%B1_170314_pic.pdf)(김승욱)
-|    |          |( R활용)  TensorFlow with R  :  Variables: Creation, Initialization, Saving, and Loading(김승욱)
+|    |          |( R활용)  [TensorFlow with R  :  Variables: Creation, Initialization, Saving, and Loading ](https://github.com/biospin/R_Bio_Plus/blob/master/part04/week2_170314/TensorFlow_with_R_%EA%B9%80%EC%8A%B9%EC%9A%B1_170314_pic.pdf)(김승욱)
 |    |          |( R활용)  R 유전체분석 :  525.5x: Testing genome-scale hypotheses (Week 4)  앞부분(명충민)
 |  3 |2017. 3.21|( 통계 기초)  제 10강 점추정량의 비교(2) 
 |    |          |( R활용)  TensorFlow with R  :  TensorBoard: Visualizing Learning
