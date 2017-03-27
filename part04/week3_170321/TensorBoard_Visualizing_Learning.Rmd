@@ -212,7 +212,7 @@ if (tf$gfile$Exists(FLAGS$summaries_dir))
 tf$gfile$MakeDirs(FLAGS$summaries_dir)
 
 # train
-train()
+# train()
 
 
 ```
@@ -220,8 +220,22 @@ train()
 
 ## Launching TensorBoard
 
+
 - tensorboard --logdir=/tmp/mnist_logs
 - http://192.168.99.100:6006/ 로 접속
+
+
+
+![](TensorBoard_01.jpg)
+
+![](TensorBoard_02.jpg)
+
+![](TensorBoard_03.jpg)
+
+![](TensorBoard_04.jpg)
+![](TensorBoard_05.jpg)
+
+
 
 
 
