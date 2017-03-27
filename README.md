@@ -106,7 +106,7 @@ https://drive.google.com/drive/folders/0B6bSLTlVnagfZVFaYjhMaE4zclU
 |    |          |( R활용)  [TensorFlow with R  :  Variables: Creation, Initialization, Saving, and Loading ](https://github.com/biospin/R_Bio_Plus/blob/master/part04/week2_170314/TensorFlow_with_R_%EA%B9%80%EC%8A%B9%EC%9A%B1_170314_pic.pdf)(김승욱)
 |    |          |( R활용)  R 유전체분석 :  525.5x: Testing genome-scale hypotheses (Week 4)  앞부분(명충민)
 |  3 |2017. 3.21|( 통계 기초)  제 10강 점추정량의 비교(2) 
-|    |          |( R활용)  [TensorFlow with R  :  TensorBoard: Visualizing Learning](https://github.com/biospin/R_Bio_Plus/blob/master/part04/week3_170321/TensorBoard_Visualizing_Learning.pdf)
+|    |          |( R활용)  [TensorFlow with R  :  TensorBoard: Visualizing Learning](https://github.com/biospin/R_Bio_Plus/blob/master/part04/week3_170321/TensorBoard_Visualizing_Learning2.pdf)
 |    |          |( R활용)  R 유전체분석 :  525.5xTesting genome-scale hypotheses (Week 4)  뒷부분(라가영)
 |  4 |2017. 3.28|( 통계 기초) 제 11강 가설검정(1)  
 |    |          |( R활용)  TensorFlow with R  :  TensorBoard: Graph Visualization(박세진)
